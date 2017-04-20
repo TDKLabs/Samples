@@ -1,0 +1,26 @@
+{
+  "server": "",
+  "user": "",
+  "key": "",
+
+  "capabilities": {
+    "project": "Example",
+    "build": "Java Selenide Suite",
+    "debug": true
+  },
+
+  "environments": {
+    "chrome": {
+      "browser": "chrome"
+    },
+    "firefox": {
+      "browser": "firefox"
+    },
+    "safari": {
+      "browser": "safari"
+    },
+    "ie": {
+      "browser": "internet explorer"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+	"server": "",
+	"user": "",
+	"key": "",
+
+	"capabilities": {
+		"project": "Example",
+		"build": "Java Selenide Parallel",
+		"debug": true
+	},
+
+	"environments": {
+		"chrome": {
+			"browser": "chrome"
+		},
+		"firefox": {
+			"browser": "firefox"
+		},
+		"safari": {
+			"browser": "safari"
+		}
+	}
+}

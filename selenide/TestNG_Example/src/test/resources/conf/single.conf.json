@@ -1,0 +1,15 @@
+{
+	"server": "",
+
+	"capabilities": {
+		"project": "Example",
+		"build": "Java Selenide Single",
+		"debug": true
+	},
+
+	"environments": {
+		"firefox": {
+			"browser": "firefox"
+		}
+	}
+}
